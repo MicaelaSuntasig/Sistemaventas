@@ -85,7 +85,7 @@ public class Registro extends javax.swing.JFrame {
         setUndecorated(true);
         setResizable(false);
 
-        JPRegistrar.setBackground(new java.awt.Color(153, 255, 204));
+        JPRegistrar.setBackground(new java.awt.Color(255, 51, 255));
         JPRegistrar.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
         jLabel33.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Img/iniciar.png"))); // NOI18N
@@ -95,7 +95,7 @@ public class Registro extends javax.swing.JFrame {
         jLabel34.setText("Correo Electrónico:");
         JPRegistrar.add(jLabel34, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 230, -1, -1));
 
-        txtCorreo.setBackground(new java.awt.Color(153, 255, 204));
+        txtCorreo.setBackground(new java.awt.Color(255, 51, 255));
         txtCorreo.setForeground(new java.awt.Color(255, 255, 255));
         txtCorreo.setBorder(null);
         txtCorreo.setCaretColor(new java.awt.Color(255, 255, 255));
@@ -119,7 +119,7 @@ public class Registro extends javax.swing.JFrame {
         jLabel35.setText("Contraseña:");
         JPRegistrar.add(jLabel35, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 290, -1, -1));
 
-        txtPass.setBackground(new java.awt.Color(153, 255, 204));
+        txtPass.setBackground(new java.awt.Color(255, 51, 255));
         txtPass.setForeground(new java.awt.Color(255, 255, 255));
         txtPass.setBorder(null);
         txtPass.addKeyListener(new java.awt.event.KeyAdapter() {
@@ -132,7 +132,7 @@ public class Registro extends javax.swing.JFrame {
         });
         JPRegistrar.add(txtPass, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 310, 226, 30));
 
-        txtCedula.setBackground(new java.awt.Color(153, 255, 204));
+        txtCedula.setBackground(new java.awt.Color(255, 51, 255));
         txtCedula.setForeground(new java.awt.Color(255, 255, 255));
         txtCedula.setBorder(null);
         txtCedula.addKeyListener(new java.awt.event.KeyAdapter() {
@@ -230,7 +230,7 @@ public class Registro extends javax.swing.JFrame {
 
         JPRegistrar.add(btnexit, new org.netbeans.lib.awtextra.AbsoluteConstraints(240, 0, 40, 30));
 
-        header.setBackground(new java.awt.Color(153, 255, 204));
+        header.setBackground(new java.awt.Color(255, 51, 255));
         header.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
         header.addMouseMotionListener(new java.awt.event.MouseMotionAdapter() {
             public void mouseDragged(java.awt.event.MouseEvent evt) {
@@ -260,7 +260,7 @@ public class Registro extends javax.swing.JFrame {
         jLabel38.setText("Nombre:");
         JPRegistrar.add(jLabel38, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 170, -1, -1));
 
-        txtNombre1.setBackground(new java.awt.Color(153, 255, 204));
+        txtNombre1.setBackground(new java.awt.Color(255, 51, 255));
         txtNombre1.setForeground(new java.awt.Color(255, 255, 255));
         txtNombre1.setBorder(null);
         txtNombre1.addActionListener(new java.awt.event.ActionListener() {
