@@ -742,7 +742,7 @@ public final class Sistema extends javax.swing.JFrame {
             }
         });
 
-        jPanel2.setBackground(new java.awt.Color(0, 153, 153));
+        jPanel2.setBackground(new java.awt.Color(255, 204, 255));
         jPanel2.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
         jLabel3.setFont(new java.awt.Font("Tahoma", 1, 12)); // NOI18N
