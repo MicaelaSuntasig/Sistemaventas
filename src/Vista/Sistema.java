@@ -381,7 +381,7 @@ public final class Sistema extends javax.swing.JFrame {
         });
         jPanel1.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
-        btnClientes.setBackground(new java.awt.Color(38, 50, 56));
+        btnClientes.setBackground(new java.awt.Color(0, 0, 255));
         btnClientes.setForeground(new java.awt.Color(255, 255, 255));
         btnClientes.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Img/Clientes.png"))); // NOI18N
         btnClientes.setText("  Clientes");
@@ -406,7 +406,7 @@ public final class Sistema extends javax.swing.JFrame {
         });
         jPanel1.add(btnClientes, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 280, 200, 40));
 
-        btnProveedor.setBackground(new java.awt.Color(38, 50, 56));
+        btnProveedor.setBackground(new java.awt.Color(0, 0, 255));
         btnProveedor.setForeground(new java.awt.Color(255, 255, 255));
         btnProveedor.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Img/proveedor.png"))); // NOI18N
         btnProveedor.setText("    Proveedor");
@@ -428,7 +428,7 @@ public final class Sistema extends javax.swing.JFrame {
         });
         jPanel1.add(btnProveedor, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 320, 200, 40));
 
-        btnProductos.setBackground(new java.awt.Color(38, 50, 56));
+        btnProductos.setBackground(new java.awt.Color(0, 0, 255));
         btnProductos.setForeground(new java.awt.Color(255, 255, 255));
         btnProductos.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Img/producto.png"))); // NOI18N
         btnProductos.setText("    Productos");
@@ -453,7 +453,7 @@ public final class Sistema extends javax.swing.JFrame {
         });
         jPanel1.add(btnProductos, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 360, 200, 40));
 
-        btnVentas.setBackground(new java.awt.Color(38, 50, 56));
+        btnVentas.setBackground(new java.awt.Color(0, 0, 255));
         btnVentas.setForeground(new java.awt.Color(255, 255, 255));
         btnVentas.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Img/compras.png"))); // NOI18N
         btnVentas.setText(" Ventas");
@@ -475,7 +475,7 @@ public final class Sistema extends javax.swing.JFrame {
         });
         jPanel1.add(btnVentas, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 400, 200, 40));
 
-        btnEmpresa.setBackground(new java.awt.Color(38, 50, 56));
+        btnEmpresa.setBackground(new java.awt.Color(0, 0, 255));
         btnEmpresa.setForeground(new java.awt.Color(255, 255, 255));
         btnEmpresa.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Img/config.png"))); // NOI18N
         btnEmpresa.setText("  Empresa");
@@ -506,7 +506,7 @@ public final class Sistema extends javax.swing.JFrame {
         tipo.setForeground(new java.awt.Color(255, 255, 255));
         jPanel1.add(tipo, new org.netbeans.lib.awtextra.AbsoluteConstraints(74, 116, -1, -1));
 
-        btnCuenta.setBackground(new java.awt.Color(38, 50, 56));
+        btnCuenta.setBackground(new java.awt.Color(0, 0, 255));
         btnCuenta.setForeground(new java.awt.Color(255, 255, 255));
         btnCuenta.setText("Cuenta");
         btnCuenta.setBorder(null);
@@ -530,7 +530,7 @@ public final class Sistema extends javax.swing.JFrame {
         jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Img/logo inicio.png"))); // NOI18N
         jPanel1.add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 0, 180, 180));
 
-        btnNuevaVenta.setBackground(new java.awt.Color(38, 50, 56));
+        btnNuevaVenta.setBackground(new java.awt.Color(0, 0, 255));
         btnNuevaVenta.setForeground(new java.awt.Color(255, 255, 255));
         btnNuevaVenta.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Img/Nventa.png"))); // NOI18N
         btnNuevaVenta.setText(" Nueva Venta");
@@ -742,7 +742,7 @@ public final class Sistema extends javax.swing.JFrame {
             }
         });
 
-        jPanel2.setBackground(new java.awt.Color(255, 204, 255));
+        jPanel2.setBackground(new java.awt.Color(0, 102, 102));
         jPanel2.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
         jLabel3.setFont(new java.awt.Font("Tahoma", 1, 12)); // NOI18N
